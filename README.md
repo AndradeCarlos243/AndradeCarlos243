@@ -1,18 +1,16 @@
 <h3>Hola, soy Carlos Alberto Andrade López</h3>
 <div align="center">
-    <details>
-        <ul>
-          <li>
-            Licenciado en tecnolgías computacionales.
-          </li>
-          <li>
-            Desarrollador FullStack en la dirección general de transporte del estado de Veracruz.
-          </li>
-          <li>
-            Actualmente aprendiendo nuevos lenguajes y tecnologías.
-          </li>
-        </ul>
-    </details>
+    <ul>
+      <li>
+        Licenciado en tecnolgías computacionales.
+      </li>
+      <li>
+        Desarrollador FullStack en la dirección general de transporte del estado de Veracruz.
+      </li>
+      <li>
+        Actualmente aprendiendo nuevos lenguajes y tecnologías.
+      </li>
+    </ul>
 </div>
 
 
