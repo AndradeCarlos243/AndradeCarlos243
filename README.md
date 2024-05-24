@@ -1,4 +1,7 @@
-<h3>Hola, soy Carlos Alberto Andrade López</h3>
+<div align="center">
+    <h3>Hola, soy Carlos Alberto Andrade López</h3>
+</div>
+
 <div align="center">
     <ul>
       <li>
