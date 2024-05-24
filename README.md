@@ -2,7 +2,7 @@
     <h3>Hola, soy Carlos Alberto Andrade López</h3>
 </div>
 
-<div align="center">
+<div align="left">
     <ul>
       <li>
         Licenciado en tecnolgías computacionales.
