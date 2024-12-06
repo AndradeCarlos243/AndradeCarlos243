@@ -5,7 +5,7 @@
 <div align="left">
     <ul>
       <li>
-        Licenciado en tecnolgías computacionales.
+        Licenciado en tecnologías computacionales.
       </li>
       <li>
         Desarrollador FullStack en la dirección general de transporte del estado de Veracruz.
