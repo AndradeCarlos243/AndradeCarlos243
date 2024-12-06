@@ -16,5 +16,5 @@
     </ul>
 </div>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,php,nodejs,ts,angular,mysql,mariadb,git,github,firebase,windows,vscode,netbeans,trello)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,php,nodejs,ts,angular,mysql,react,git,github,firebase,windows,vscode,powershell,bootstrap)](https://skillicons.dev)
 
